@@ -960,6 +960,7 @@
   "vote.dragoncrypto.io": "dragoncrypto.io",
   "dao.arkadiapark.com": "arkadia-park.eth",
   "vote.bcrater.org": "b00tyhole.eth",
+  "vote.reformdao.com": "rfrmdao.eth",
   "vote.cbidao.com": "cbidao.eth",
   "governance.topia.gg": "topia-governance.eth",
   "gov.piteas.io": "piteas.eth",
@@ -970,6 +971,5 @@
   "vote.pillardao.org": "plrdao.eth",
   "vote.evelon.app": "evelonapp.eth",
   "vote.zkswap.finance": "zkswapfinance.eth",
-  "vote.gamedao.co": "gamedao.eth",
-  "vote.reformdao.com": "rfrmdao.eth"
-}
+  "vote.gamedao.co": "gamedao.eth"
+  }
